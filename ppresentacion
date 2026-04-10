@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Presentación N1</title>
+</head>
+<body>
+    <h2>TP N°1-PRESENTACION-Sistemas, Roles y Metodologías de desarrollo</h2>
+    <h3>Integrantes: Aarón Selepec, Ramiro Liparelli, Gaspar Soria y Martín Herrera</h3>
+    <h3>Sistemas, roles y metodologías de desarrollo</h3>
+    <p> 
+        Actualmente, la información ha encontrado su lugar apropiado como recurso clave. 
+        Los responsables de la toma de decisiones por fin comprenden que
+        la información no es sólo un producto derivado de las operaciones comerciales, 
+        sino que además provee impulso a las empresas y puede constituir el factor decisivo para determinar el éxito
+        o el fracaso de un negocio.
+    </p>
+    <p>
+        Para maximizar la utilidad de la información, una empresa debe administrarla en forma
+        apropiada, de la misma manera en que administra los demás recursos. Los administradores
+        necesitan comprender que hay costos asociados con la producción, distribución, seguridad, el
+        almacenamiento y la recuperación de toda información. Aunque la información está a nuestro
+        alrededor, no es gratuita y no debemos dar por hecho su uso estratégico para poner a una
+        empresa en una posición competitiva.
+    </p>
+    <h2>Tipos de Sistemas</h2>
+    <p>
+        Los sistemas de información se desarrollan para distintos fines, dependiendo de las necesidades de los usuarios
+        humanos y la empresa.
+    </p>
+    <ul>
+    <li>-Los sistemas de procesamiento de transacciones (TPS) funcionan en el nivel operacional
+        de la organización.</li>
+    <li>Los sistemas de automatización de oficinas (OAS) y los sistemas de trabajo de conocimiento
+        (KWS) brindan soporte para el trabajo a nivel del conocimiento.</li>
+    <li>Entre los sistemas de nivel superior se encuentran los sistemas de información administrativa (MIS) y los 
+        sistemas de soporte de decisiones (DSS)</li>
+        Los sistemas expertos aplican la experiencia de los encargados de tomar decisiones para resolver problemas específicos y
+        estructurados.
+    </ul>
+    <h2>Sistemas de procesamiento de transacciones</h2>
+    <p>Los sistemas de procesamiento de transacciones (TPS) son sistemas de información computarizados que se desarrollaron
+        para procesar grandes cantidades de información para las transacciones de negocios rutinarias, como
+        nóminas e inventario. Un TPS elimina el tedio de las transacciones operacionales necesarias y reduce el tiempo
+        que se requería para realizarlas en forma manual, aunque la mayoría de las personas aún deben introducir los
+        datos en forma manual en los sistemas computarizados. Los sistemas de procesamiento de transacciones son sistemas que 
+        atraviesan límites y permiten que la organización interactúe con los entornos externos. Como los administradores analizan 
+        los datos generados por el TPS para obtener información actualizada sobre lo que ocurre en sus empresas, es imprescindible
+        que estos sistemas funcionen sin problemas ni interrupciones para sustentar las operaciones diarias de estas compañías.
+    </p>
+    <h2>Sistemas de automatización de oficinas y sistemas de trabajo de conocimiento</h2>
+    <p>
+        En el nivel de conocimiento de la organización hay dos clases de sistemas. Los sistemas de automatización de 
+        oficinas (OAS) brindan apoyo a las personas que trabajan con datos no para crear conocimiento sino para analizar la información y
+        transformar los datos o manipularlos de cierta forma antes de compartirlos o diseminarlos de
+        manera formal a través de la organización y, algunas veces, más allá. Los aspectos más conocidos de los sistemas
+        OAS son el procesamiento de palabras, las hojas de cálculo, el diseño gráfico por computadora, la planificación
+        electrónica y la comunicación a través de correo de voz, correo electrónico (e-mail) y teleconferencias.
+        Los sistemas de trabajo de conocimiento (KWS) brindan apoyo a profesionales como científicos, ingenieros y
+        médicos, ayudándoles a crear conocimiento (a menudo en equipos) y a integrarlo a su organización o la sociedad.
+    </p>
+    <h2>Sistemas de información administrativa</h2>
+    <p>
+        Los sistemas de información administrativa (MIS) no sustituyen a los sistemas de procesamiento de transacciones,más bien, todos
+        los sistemas MIS incluyen el procesamiento de transacciones. Los MIS son sistemas de información computarizados que funcionan
+        debido a la decidida interacción entre las personas y las computadoras. Al requerir que las personas, el software y el hardware
+        funcionen en concierto, los sistemas de información administrativa brindan soporte a los usuarios para realizar un espectro más amplio de tareas organizacionales que
+        los sistemas de procesamiento de transacciones, incluyendo los procesos de análisis y toma de decisiones.
+        Para acceder a la información, los usuarios del sistema de información administrativa comparten una base
+        de datos común; ésta almacena tanto los datos como los modelos que permiten al usuario interactuar con ellos,
+        interpretarlos y aplicarlos. Los sistemas de información administrativa producen información que se utiliza en
+        el proceso de toma de decisiones. También pueden ayudar a integrar algunas de las funciones de información
+        compu tarizadas de una empresa.
+    </p>
+    <h2>Sistemas de soporte de decisiones</h2>    
+    <p>
+        Los sistemas de soporte de decisiones (DSS, o sistemas de apoyo a la toma de decisiones) pertenecen a una clase
+        superior de sistemas de información computarizados. Los sistemas DSS son similares al sistema de información
+        administrativa tradicional debido a que ambos dependen de una base de datos como fuente de datos. La diferencia 
+        estriba en que el sistema de soporte de decisiones está más enfocado a brindar respaldo a la toma de decisiones 
+        en todas sus fases, aunque la decisión misma aún corresponde de manera exclusiva al usuario. Los sistemas
+        de soporte de decisiones se ajustan más a la persona o el grupo usuario que un sistema de información administrativa tradicional. 
+        También se describen a veces como sistemas enfocados en la inteligencia de negocios.
+    </p>    
+      <h2>Inteligencia artificial y sistemas expertos</h2>  
+    <p>
+        La inteligencia artificial (AI) puede ser considerada como el campo dominante de los sistemas expertos. La
+        idea general de la AI ha sido desarrollar equipos que se comporten de manera inteligente. Dos ramas de investigación
+        de la AI son: 
+        <ol>
+        <li>La comprensión del lenguaje natural</li> 
+        <li>El análisis de la habilidad para razonar un problema y llegar a una conclusión lógica.</li> 
+        Los sistemas expertos utilizan las metodologías de razonamiento de
+        la AI para resolver los problemas que los usuarios de negocios (y otros tipos de usuarios) les presentan.
+        </ol>
+        Los sistemas expertos son una clase muy especial de sistema de información que ha demostrado su utilidad comercial gracias
+        a la disponibilidad extendida de hardware y software como las computadoras personales (PC) y las
+        interfaces de sistemas expertos. Un sistema experto (también conocido como sistema basado en el conocimiento) captura y
+        utiliza en forma efectiva el conocimiento de uno o varios expertos humanos para resolver un problema específico al que una 
+        organización se enfrenta. Cabe mencionar que a diferencia de los sistemas DSS, que en última instancia dejan la decisión a 
+        la persona encargada de la toma de decisiones, un sistema experto selecciona la mejor solución paraun problema o una clase 
+        específica de problemas.
+    </p>
+        <h2>Sistemas de soporte de decisiones en grupo y sistemas de trabajo colaborativo asistido por computadora</h2>  
+    <p>
+        Las organizaciones confían cada vez más en los grupos o equipos para tomar decisiones en conjunto. Cuando
+        los grupos toman decisiones semiestructuradas o no estructuradas, un sistema de soporte de decisiones en grupo
+        (GDSS, o sistema de apoyo a la toma de decisiones en grupo) puede ofrecer una solución. Estos sistemas, que se
+        utilizan en cuartos especiales equipados con varias configuraciones, permiten a los miembros de los grupos interactuar
+        con el soporte electrónico (a menudo en la forma de software especializado) y un facilitador de grupo especial. 
+        El objetivo de los sistemas de soporte de decisiones en grupo es lograr que un grupo resuelva un problema
+        con la ayuda de varios apoyos como encuestas, cuestionarios, lluvia de ideas y creación de escenarios.
+    </p>
+    <h2>Sistemas de soporte para ejecutivos</h2>  
+    <p>
+        Cuando los ejecutivos fijan su atención en la computadora, a menudo buscan obtener ayuda para tomar decisiones 
+        en el nivel estratégico. Los sistemas de soporte para ejecutivos (ESS, sistemas de apoyo para ejecutivos)
+        ayudan a los ejecutivos a organizar sus interacciones con el entorno externo ofreciendo tecnologías de gráficos
+        y comunicaciones en sitios accesibles como salas de juntas u oficinas corporativas personales. Aunque los sistemas 
+        ESS se basan en la información que generan los sistemas TPS y MIS, ayudan a sus usuarios a enfrentar
+        los problemas relacionados con decisiones no estructuradas inespecíficas de una aplicación, para lo cual crean
+        un entorno que les ayude a pensar sobre los problemas estratégicos de una manera informada. Los sistemas ESS
+        extienden las capacidades de los ejecutivos y les ofrecen soporte para que puedan entender mejor sus entornos.
+    </p>
+</body>
+</html>
